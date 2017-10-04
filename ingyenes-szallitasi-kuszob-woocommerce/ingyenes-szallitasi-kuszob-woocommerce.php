@@ -6,7 +6,7 @@
 * Version: 1.0
 * Author: Trueqap
 * Author URI: https://github.com/trueqap/
-* License: GPL2
+* License: GPLv2 or later
 */
 
 add_action( 'woocommerce_checkout_before_order_review', 'mennyi_van_hatra', 15);
